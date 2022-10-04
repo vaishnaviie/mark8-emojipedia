@@ -9,7 +9,18 @@ const emojiDictionary = {
   "😵": "Confused",
   "❤️": "Love",
   "👍": "Thumbs up",
-  "🤔": "Thinking"
+  "🤔": "Thinking",
+  "😭": "Crying",
+  "😱": "Amazement",
+  "🤗": "Hug",
+  "😡": "Angry",
+  "😑": "Disappointment",
+  "😉": "Winking",
+  "🤪": "Zany Face",
+  "🤑": "Money-Mouth Face",
+  "😏": "Smirking Face",
+  "😪": "Sleepy Face"
+
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
